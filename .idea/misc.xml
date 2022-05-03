@@ -4,7 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/CRUD/ProjekMTQ/app/src/main/res/font/rubik.xml" value="0.2546875" />
-        <entry key="..\:/CRUD/ProjekMTQ/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/CRUD/ProjekMTQ/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/CRUD/ProjekMTQ/app/src/main/res/layout/activity_main_admin.xml" value="0.22447916666666667" />
+        <entry key="..\:/CRUD/ProjekMTQ/app/src/main/res/layout/activity_main_member.xml" value="0.22447916666666667" />
         <entry key="..\:/CRUD/ProjekMTQ/app/src/main/res/layout/activity_register.xml" value="0.17074275362318841" />
       </map>
     </option>
